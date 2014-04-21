@@ -4,18 +4,23 @@ The goal of this repository is to build an awesome map with the following featur
 
 Features
 
-Multiple markers<br>
-Customizable tooltips<br>
+Multiple markers
+Customizable tooltips
 List of places left/right/below map with mouseover interacting with markers on map
 
 Technology
 
-Google Maps API<br>
-Angular JS<br>
+Google Maps API
+Angular JS
 Foundation
 
 Some demos
 
-<a href="http://www.morethanamap.com/demos/places">http://www.morethanamap.com/demos/places</a>
-
+http://www.morethanamap.com/demos/places
 https://github.com/allenhwkim/angularjs-google-maps
+
+Resources
+
+http://angular-google-maps.org/
+https://github.com/allenhwkim/angularjs-google-maps
+https://github.com/wbyoko/angularjs-google-maps-components
