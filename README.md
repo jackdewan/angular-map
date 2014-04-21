@@ -17,4 +17,5 @@ Foundation
 Some demos
 
 <a href="http://www.morethanamap.com/demos/places">http://www.morethanamap.com/demos/places</a>
+
 https://github.com/allenhwkim/angularjs-google-maps
